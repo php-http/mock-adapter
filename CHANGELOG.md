@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.6.1 - 2024-10-31
+
+- Fix warnings with PHP 8.4. 
+
 ## 1.6.0 - 2023-05-21
 
 ### Fixed
